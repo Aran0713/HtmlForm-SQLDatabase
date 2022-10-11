@@ -2,7 +2,7 @@ import mysql from "mysql";
 var connection = mysql.createConnection({
     host:"localhost",
     user: "root",
-    password: "sangeethkeke",
+    password: "",
     database: "datatest"
 });
 
